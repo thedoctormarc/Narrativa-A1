@@ -10,4 +10,6 @@ He empleado un proceso similar en el barco.
 
 Los árboles los he planteado con el método de crear una forma poligonal customizada, vértex a vértex, visto desde arriba. Después, he extruído la cara y he conectado los vertices de modo que quedase un conjunto de hojas, el cual he duplicado y escalado unas cuantas veces.
 
-Finlamente, he empleado los vertex colors tanto a nivel de objeto, como de caras (tejado de las casas) y de vértices (la tela entre los dos postes). 
+Finalmente, he empleado los vertex colors tanto a nivel de objeto, como de caras (tejado de las casas) y de vértices (la tela entre los dos postes). 
+
+El resultado se encuentra exportado en .obj en la carpeta "Result scene" (con un archivo .mtl aparte para materiales). 
