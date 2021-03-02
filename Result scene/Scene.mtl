@@ -1,0 +1,10 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl transp
+map_Kd unity_builtin_extra
+Kd 0.0236294 0.5566038 0.4898186
+d 1
+
